@@ -2,4 +2,4 @@
 
 An interface to control the direction of the robot movement
 
- ![image](https://github.com/user-attachments/assets/ff54680c-845c-41df-a2db-286e779f4b5b)
+![image](https://github.com/user-attachments/assets/d786a1ce-b0b3-4468-b082-85ad886abc8d)
